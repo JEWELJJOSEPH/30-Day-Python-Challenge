@@ -8,5 +8,5 @@ Day3:
 the string is 'EVERYDAY'
 (hint:'EVERYDAY'=>['E','V','E','R','Y','D','A','Y'])
 
-OUTPUT
+OUTPUT:
 ['D','A','Y']
