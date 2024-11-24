@@ -3,9 +3,7 @@ print("1. Pyramid Pattern")
 print("2. Reverse Pyramid Pattern")
 print("3. Right-Angle Triangle Pattern")
 print("4. Diamond Pattern")
-
 choice = int(input("Choose a pattern (1-4): "))
-
 n = int(input("Enter the number of rows: "))
 
 if choice == 1:
