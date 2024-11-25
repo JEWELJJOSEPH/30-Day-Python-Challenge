@@ -7,6 +7,7 @@ Day1:
 
 Day 4:
 1)Given a list of numbers. write a program to turn every item of a list into its square.
+
 2)Write a Python code to accept a string from the user and display characters present at an even index number.
 
 
